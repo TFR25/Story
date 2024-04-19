@@ -1,0 +1,11 @@
+secrets.txt
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+._*
+Thumbs.db
+ethumbs.db
+# this is a comment
+# the following line will ignore all files ending in .png
+*.png
